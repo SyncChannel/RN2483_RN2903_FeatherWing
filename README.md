@@ -7,5 +7,7 @@ This PCB design is tested and functional. BUT! I DO NOT recommend that you use i
 Upon request, I have uploaded the Eagle files to this repo. I will not be doing a blog post article on this one.
 
 
+
 Dan Watson
+
 syncchannel.blogspot.com
